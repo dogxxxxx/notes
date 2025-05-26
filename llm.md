@@ -10,4 +10,6 @@
 4. If a template is found, fill out the categories such as `date`, `model type`.
 5. if not, create a SQL query by LLM.
 
-![image info](./images/llm/text2sql_flow.png)
+<p align="center">
+  <img src="./images/llm/text2sql_flow.png" alt="flow_chart" width="200"/>
+</p>
